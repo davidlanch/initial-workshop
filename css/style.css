@@ -1,0 +1,41 @@
+em {
+    color: red;
+}
+
+span {
+    color: blue;
+}
+
+img {
+    width: 50%;
+}
+
+.red {
+    color: red ;
+    border: 1px red solid;
+}
+
+#table-cards{
+    border: 1px black solid;
+    text-align: center;
+}
+
+.black {
+    border: 1px black solid;
+    
+}
+
+th, td{
+    border: 1px black solid;
+    
+}
+
+.table-complex{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.title-table{
+    width: 3000px;
+    padding: 5px;
+}
